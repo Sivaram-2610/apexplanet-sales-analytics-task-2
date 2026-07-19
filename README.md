@@ -59,5 +59,5 @@ sqlite3 data/apexplanet_sales.db
 ```
 
 ## Author
-
+Gandepalli chiranjeevi siva rama krishna
 Data Analytics Internship — ApexPlanet
